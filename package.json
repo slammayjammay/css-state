@@ -1,0 +1,17 @@
+{
+  "name": "css-state",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CSSState.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slammayjammay/css-state.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slammayjammay/css-state/issues"
+  },
+  "homepage": "https://github.com/slammayjammay/css-state#readme"
+}
